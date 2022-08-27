@@ -16,6 +16,7 @@ use `lime build flash` to compile the game,
 as this game was built for Adobe Flash (use flashpoint or an old flash executable thing to open it),
 or you could just compile for Windows, macOS, Linux, HTML5, iOS, Android, neko and whatever other platforms you want!
 ## Other build commands
+(most common build targets)
 ### HTML5
 `lime build html5`
 ### Linux
