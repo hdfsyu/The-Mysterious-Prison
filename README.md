@@ -26,7 +26,8 @@ or you could just compile for Windows, macOS, Linux, HTML5, iOS, Android, neko a
 ### Windows
 `lime build windows`
 # Running
-Go to [project root]/export/[build target name]/bin/The Mysterous Prison.[the file extension your build target supports]
+Go to [project root]/export/[build target name]/bin/The Mysterous Prison.[the file extension your build target supports],
+or just go [here](https://hdfsyu.itch.io/the-mysterious-prison)
 # Controls
 ENTER to execute the selected option,
 UP, DOWN, LEFT, RIGHT to select an option
