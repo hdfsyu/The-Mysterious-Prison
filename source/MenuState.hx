@@ -38,7 +38,7 @@ class MenuState extends FlxState
 		{
 			FlxG.sound.playMusic(AssetPaths.music__wav, 1, true);
 		}
-		titleText = new FlxText(20, 0, 0, "The\nMysterious\nMaze", 22);
+		titleText = new FlxText(20, 0, 0, "The\nMysterious\nPrison", 22);
 		titleText.alignment = CENTER;
 		titleText.screenCenter(X);
 		add(titleText);
