@@ -8,7 +8,7 @@ Sorry for the horrible art skills! Yeah I can't even draw an arrow correctly...
 # Story
 You got stuck in a prison for no reason at all,
 you have to escape to get back to you home. However...
-There are Clawgers! These monsters can throw you back into your sell if you can't defeat them!
+There are Clawgers! These monsters can throw you back into your cell if you can't defeat them!
 But there is a boss clawger too... Defeat him and you get to escape! (his minions wont know where the player is if he's defeated)
 # Building
 Make sure you have HaxeFlixel and flixel-addons installed,
